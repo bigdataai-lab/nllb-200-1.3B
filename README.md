@@ -201,6 +201,7 @@ language_details: "ace_Arab, ace_Latn, acm_Arab, acq_Arab, aeb_Arab, afr_Latn, a
 
 tags:
 - nllb
+- translation
 license: "cc-by-nc-4.0"
 datasets:
 - flores-200
@@ -208,6 +209,7 @@ metrics:
 - bleu
 - spbleu
 - chrf++
+inference: false
 ---
 
 # NLLB-200
